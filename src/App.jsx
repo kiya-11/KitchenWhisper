@@ -70,11 +70,11 @@ function App() {
        
       </main>
 
-        <div className="footer-section">
-          <Footer />
-        </div>
-
     </div>
+
+      <div className="footer-section">
+        <Footer />
+      </div>
     </>
   )
 }

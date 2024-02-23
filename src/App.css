@@ -25,6 +25,7 @@ main {
   gap: 2rem;
   width: 90%;
   margin: 0 auto;
+  margin-bottom: 3rem;
 
 }
 
@@ -110,6 +111,7 @@ main {
 
 .footer-section {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   padding: 2rem;
   background-color: rgb(44, 40, 40);
